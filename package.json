@@ -1,0 +1,17 @@
+{
+  "name": "jsfundamentals",
+  "version": "1.0.0",
+  "description": "A base project for learning javascript",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Ren",
+  "license": "ISC"
+}
