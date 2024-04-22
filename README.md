@@ -13,3 +13,10 @@ More details will be listed here, but look at code for source of truth!
 
 ## Installation
 Download the project
+
+## Build and Run
+```npm install```
+
+Then run the server.js to start local dev server
+
+```node server.js```
